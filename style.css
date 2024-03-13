@@ -1,11 +1,11 @@
+
 .navbar{
 
     display: flex;
     justify-content: space-evenly;
     padding: 70px;
-    margin-right: 50%;
-}   
-
+    margin-right: 50%; 
+}
 
 .Column1{
     display: flex;
@@ -41,4 +41,8 @@
 
 .footer{
     display: flex;
+}
+
+@media screen { min: width 320px; and max-width: 480px;
+    
 }
