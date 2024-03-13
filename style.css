@@ -1,0 +1,44 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-evenly;
+    padding: 70px;
+    margin-right: 50%;
+}   
+
+
+.Column1{
+    display: flex;
+    gap: 10%;
+}
+
+.Column2{
+    display: flex;
+    gap : 10%;
+
+}
+
+
+.Column3{
+    display: flex;
+    justify-content: space-evenly;
+    margin:center ;
+
+}
+
+
+.GFlowers{
+    display: flex;
+}
+
+.GFlowers2{
+    display: flex;
+}
+.Flowers2{
+    display: grid;
+}
+
+
+.footer{
+    display: flex;
+}
